@@ -15,9 +15,9 @@
 
 <hr>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vinayakchandra&show_icons=true&locale=en&theme=nightowl&hide_border=true" alt="vinayakchandra" /></p>
-
 <p align="center">&nbsp;<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinayakchandra&theme=nightowl&hide_border=true" alt="vinayakchandra" /></p>
+
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vinayakchandra&show_icons=true&locale=en&theme=nightowl&hide_border=true" alt="vinayakchandra" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinayakchandra&show_icons=true&locale=en&layout=compact&theme=nightowl&hide_border=true" alt="vinayakchandra" /></p>
 <hr>
